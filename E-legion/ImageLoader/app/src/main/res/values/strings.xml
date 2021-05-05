@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ImageLoader</string>
+    <string name="et_hint">Enter url</string>
+    <string name="btn_download">download image</string>
+    <string name="btn_show">show image</string>
+    <string name="msg_file_read">Please give your permission for reading this image file</string>
+    <string name="msg_file_write">Please give your permission for downloading this image file</string>
+    <string name="msg_deny">Anytime you can change it in your settings</string>
+    <string name="msg_download_title">Download</string>
+    <string name="msg_download_description">Downloading image</string>
+    <string name="msg_read_null">There is no image to show</string>
 </resources>
