@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Create anAndroid AppwithKotlin</string>
+    <string name="tv_answer">\??</string>
+    <string name="tv_title">Guess 1 to 25</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_start_over">Start Over</string>
 </resources>
